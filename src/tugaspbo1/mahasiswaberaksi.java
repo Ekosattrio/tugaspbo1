@@ -10,7 +10,7 @@ package tugaspbo1;
  */
 public class mahasiswaberaksi {
     void membaca() {
-		System.out.println("Mahasiswa bisa membaca");
+		System.out.println("Mahasiswa harus membaca");
 	}
 	void menyontek() {
 		System.out.println("Mahasiswa tidak boleh menyontek");

@@ -15,11 +15,11 @@ public class mahasiswa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        mahasiswaberaksi ms1 = new mahasiswaberaksi();
+        mahasiswaberaksi m1 = new mahasiswaberaksi();
 				
-		ms1.membaca();
-		ms1.menyontek();
-		ms1.memodifikasi();
+		m1.membaca();
+		m1.menyontek();
+		m1.memodifikasi();
 	}
     }
     
